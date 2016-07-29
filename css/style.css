@@ -20,6 +20,7 @@ header {
 
 section header {
   position: relative;
+  margin-top: 0;
   border: 1px solid black;
   width: auto;
   padding-left: 8px;
